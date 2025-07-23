@@ -70,8 +70,6 @@ OpAmp_Design/
 │   ├── buffer.asc              # Buffer/Voltage follower application circuit
 │   └── half_wave_rectifier.asc # Precision half-wave rectifier application circuit
 ├── Opamp LTspice.png           # Image of the Op-Amp circuit (assumed)
-├── Report.pdf                  # Detailed project report
-├── Presentation.pdf            # Project presentation slides
 └── README.md                   # This file
 ```
 *(Note: `Waveform Plots/` and `Datasheets/` folders can be added if you have simulation output images or component datasheets respectively.)*
@@ -107,4 +105,4 @@ This project provides hands-on experience with:
 
 ---
 
-*This README provides an overview of the Op-Amp design project. For in-depth technical details, circuit analysis, component values, and specific simulation results, please refer to the `Report.pdf` and `Presentation.pdf`.*
+*This README provides an overview of the Op-Amp design project.

@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project details the design, simulation, and analysis of a discrete operational amplifier (Op-Amp) built using Bipolar Junction Transistors (BJTs). The entire design and its application circuits are simulated using LTspice. This work serves as a practical exploration of fundamental analog circuit design principles, showcasing the construction of an Op-Amp from basic components and evaluating its performance characteristics. The findings and methodologies are documented in the accompanying `Report.pdf` and `Presentation.pdf`.
+This project details the design, simulation, and analysis of a discrete operational amplifier (Op-Amp) built using Bipolar Junction Transistors (BJTs). The entire design and its application circuits are simulated using LTspice. This work serves as a practical exploration of fundamental analog circuit design principles, showcasing the construction of an Op-Amp from basic components and evaluating its performance characteristics.
 
 ![LTspice Circuit Diagram](Opamp%20LTspice.png)
 *(Image: the main Op-Amp schematic, e.g., `op_basic.asc`)*
